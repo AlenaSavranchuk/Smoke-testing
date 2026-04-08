@@ -1,4 +1,4 @@
-# Тест-кейсы для Smoke-прогона (Mentorpiece FTB)
+# Тест-кейсы для Smoke-прогона для сайта Mentorpiece FTB URL: https://ftb.mentorpiece.org/
 
 ---
 
